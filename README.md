@@ -24,7 +24,7 @@ A powerful AI-powered tool that analyzes images to detect objects, scenes, color
 2. Clone and install:
 
 ```bash
-   git clone [repository-url]
+   git clone https://github.com/mahirox36/Vision-X.git
    cd image-analysis-tool IAT
    pip install -r requirements.txt
 ```
