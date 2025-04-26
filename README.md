@@ -18,7 +18,7 @@ A powerful AI-powered tool that analyzes images to detect objects, scenes, color
 
 1. Prerequisites:
 
-   - Python 3.8+
+   - [Python](https://www.python.org/downloads/) 3.8+
    - [Ollama](https://ollama.com/download) with [Gemma3](https://ollama.com/library/gemma3) model installed
 
 2. Clone and install:
