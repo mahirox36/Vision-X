@@ -1,5 +1,5 @@
 """
-🎨 Vision-X - Core Library
+Vision-X - Core Library
 A delightful tool that analyzes images using AI to detect objects, scenes, colors, and text.
 
 This module contains the core functionality for processing images using the Gemma3 model.
